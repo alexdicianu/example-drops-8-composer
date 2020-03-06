@@ -19,6 +19,7 @@
         "drupal/console": "^1",
         "drupal/core": "^8.6.15",
         "drupal/ctools": "^3.2",
+        "drupal/token": "^1.6",
         "drupal/webform": "^5.8",
         "pantheon-systems/quicksilver-pushback": "^2",
         "rvtraveller/qs-composer-installer": "^1.1",
