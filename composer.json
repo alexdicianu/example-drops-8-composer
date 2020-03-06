@@ -19,6 +19,7 @@
         "drupal/console": "^1",
         "drupal/core": "^8.6.15",
         "drupal/ctools": "^3.2",
+        "drupal/entity": "^1.0",
         "drupal/pathauto": "^1.6",
         "drupal/token": "^1.6",
         "drupal/webform": "^5.8",
