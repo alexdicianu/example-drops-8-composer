@@ -21,6 +21,7 @@
         "drupal/console": "^1",
         "drupal/core": "^8.6.15",
         "drupal/ctools": "^3.2",
+        "drupal/devel": "^2.1",
         "drupal/entity": "^1.0",
         "drupal/features": "^3.8",
         "drupal/field_group": "^3.0",
